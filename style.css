@@ -5,7 +5,15 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'poppins', sans-serif;
+
+}
+
+body{
     background-color: pink;
+}
+
+ul, li{
+    background-color: white;
 }
 
 .navbar {
